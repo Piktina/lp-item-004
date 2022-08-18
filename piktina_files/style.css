@@ -114,8 +114,8 @@ button {
 
 /* START merchant list style */
 .merchant__list {
-  padding: 0 18px;
-  /* background-color: black; */
+ padding: 0 18px;
+ background-color: black; 
 }
 
 .merchant__box {
@@ -137,7 +137,7 @@ button {
 .merchant__content--style-2 .merchant__title {
   margin: 0;
   font-family: Mulish;
-  color: #222729;
+  color: #white;
   font-size: 13px;
   font-weight: 400;
   line-height: 18px;
